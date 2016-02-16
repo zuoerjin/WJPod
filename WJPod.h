@@ -9,5 +9,7 @@
 #ifndef WJPod_h
 #define WJPod_h
 
+#import "EScrollerView.h"
+#import "MyPageControl.h"
 
 #endif /* WJPod_h */
