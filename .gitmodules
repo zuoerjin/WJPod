@@ -1,3 +1,6 @@
 [submodule "aaa"]
 	path = aaa
 	url = http://192.168.7.50:8080/tfs/MTD/_git/MTD_Lib_IOS
+[submodule "bbb"]
+	path = bbb
+	url = http://tfsserver:8080/tfs/MTD/_git/MTD_OnlinePayment_iOS
